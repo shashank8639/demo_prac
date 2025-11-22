@@ -1,3 +1,9 @@
+
+new data is added to learn conflicts
+3rd line data is overriding the below lines
+
+======================\
+updated
 lkjlkajlkjslkj
 lajdsljlskjjalfk
 afjdsljlfjsljfflas
