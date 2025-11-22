@@ -1,3 +1,15 @@
+This is 1st line of the file
+Java class is so difficult
+Java concepts might be difficult but learning concepts applying in the project is best idea
+
+THese idea great breakthrough
+==============================
+Use 25 minutes capsule training which is powerful Pomodoro technique
+======================================
+THis pomodoro technique is very useful for the people who struggle with concentration issues
+==================================
+Because our brain feels lack of interest  and no motivation because we can't concentrate for 1hour
+
 hello Git
 =======
 =====================
@@ -5,3 +17,4 @@ geetha 3rd line
 4lines completed
 
 https://meetmanjunath.com/books/
+
